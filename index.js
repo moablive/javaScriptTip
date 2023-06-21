@@ -25,3 +25,5 @@ function update() {
     document.getElementById('splitValue').innerHTML = formatSplit(split)
     document.getElementById('billEach').innerHTML = formatMoney(billTotal / split)
 }
+
+console.log('TESTE DE SERVER')
